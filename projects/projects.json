@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Nostra E-Commerce Website",
+    "desc": "Created a E-commerce Website using Frontend Tools like HTML, CSS and JS in Responsive manner",
+    "image": "nostra",
+    "category": "Frontend",
+    "links": {
+      "view": "https://firas-developer.github.io/Nostra/",
+      "code": "https://github.com/Firas-developer/Nostra"
+    }
+  },
+  {
+    "name": "TripAdvisor Clone",
+    "desc": "Developed a clone of TripAdviaor Website using HTML and CSS",
+    "image": "tripadvisor",
+    "category": "Frontend",
+    "links": {
+      "view": "https://firas-developer.github.io/Tripadvisor-clone/",
+      "code": "https://github.com/Firas-developer/Tripadvisor-clone"
+    }
+  },
+  {
+    "name": "Greenden Project",
+    "desc": "Developed a Plants Selling Website using Tailwindcss",
+    "image": "greenden",
+    "category": "Tailwindcss",
+    "links": {
+      "view": "https://firas-developer.github.io/Greeden/",
+      "code": "https://github.com/Firas-developer/Greeden"
+    }
+  },
+  {
+    "name": "Udemy Clone",
+    "desc": "Developed and Created a clone of Udemy Website using HTML and CSS",
+    "image": "udemy",
+    "category": "Frontend",
+    "links": {
+      "view": "https://firas-developer.github.io/udemy-clone/",
+      "code": "https://github.com/Firas-developer/udemy-clone"
+    }
+  },
+  {
+    "name": "Web Music Player",
+    "desc": "I have Created a Music Player Website to hear songs using HTML, CSS and JS",
+    "image": "musicplayer",
+    "category": "Frontend",
+    "links": {
+      "view": "https://firas1902.github.io/Music-Player/",
+      "code": "https://github.com/firas1902/Music-Player"
+    }
+  },
+  {
+    "name": "Whatsapp Clone",
+    "desc": "I have Recreated and cloned the Whatsapp application in the Website using HTML,CSS and JS",
+    "image": "wpclone",
+    "category": "Frontend",
+    "links": {
+      "view": "https://firas1902.github.io/Whatsapp-clone/",
+      "code": "https://github.com/firas1902/Whatsapp-clone"
+    }
+  }
+]
